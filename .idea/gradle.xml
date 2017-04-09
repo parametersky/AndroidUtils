@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/android_jni_c" />
+            <option value="$PROJECT_DIR$/android_jni_cpp" />
+            <option value="$PROJECT_DIR$/android_testing" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/customnavigationdrawer" />
+            <option value="$PROJECT_DIR$/databasetry" />
+            <option value="$PROJECT_DIR$/downloadtest" />
+            <option value="$PROJECT_DIR$/encodertest" />
+            <option value="$PROJECT_DIR$/horizontalviewtest" />
+            <option value="$PROJECT_DIR$/listviewtest" />
+            <option value="$PROJECT_DIR$/locationtest" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/viewpagertest" />
+            <option value="$PROJECT_DIR$/wificonnectionmanager" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
