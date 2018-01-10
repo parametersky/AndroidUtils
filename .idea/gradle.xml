@@ -14,12 +14,14 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/customnavigationdrawer" />
             <option value="$PROJECT_DIR$/databasetry" />
+            <option value="$PROJECT_DIR$/dbapplication" />
             <option value="$PROJECT_DIR$/downloadtest" />
             <option value="$PROJECT_DIR$/encodertest" />
             <option value="$PROJECT_DIR$/horizontalviewtest" />
             <option value="$PROJECT_DIR$/listviewtest" />
             <option value="$PROJECT_DIR$/locationtest" />
             <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
             <option value="$PROJECT_DIR$/viewflipper" />
             <option value="$PROJECT_DIR$/viewpagertest" />
             <option value="$PROJECT_DIR$/wificonnectionmanager" />

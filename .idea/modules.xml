@@ -9,12 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/customnavigationdrawer/customnavigationdrawer.iml" filepath="$PROJECT_DIR$/customnavigationdrawer/customnavigationdrawer.iml" />
       <module fileurl="file://$PROJECT_DIR$/databasetry/databasetry.iml" filepath="$PROJECT_DIR$/databasetry/databasetry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbapplication/dbapplication.iml" filepath="$PROJECT_DIR$/dbapplication/dbapplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/downloadtest/downloadtest.iml" filepath="$PROJECT_DIR$/downloadtest/downloadtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/encodertest/encodertest.iml" filepath="$PROJECT_DIR$/encodertest/encodertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/horizontalviewtest/horizontalviewtest.iml" filepath="$PROJECT_DIR$/horizontalviewtest/horizontalviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/listviewtest/listviewtest.iml" filepath="$PROJECT_DIR$/listviewtest/listviewtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/locationtest/locationtest.iml" filepath="$PROJECT_DIR$/locationtest/locationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/viewflipper/viewflipper.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpagertest/viewpagertest.iml" filepath="$PROJECT_DIR$/viewpagertest/viewpagertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/wificonnectionmanager/wificonnectionmanager.iml" filepath="$PROJECT_DIR$/wificonnectionmanager/wificonnectionmanager.iml" />

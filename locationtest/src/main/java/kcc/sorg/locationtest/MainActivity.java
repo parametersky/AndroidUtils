@@ -28,8 +28,9 @@ public class MainActivity extends Activity {
     public void onResume(){
         super.onResume();
         mLocationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
+//        mLocationManager.getGpsStatus()
         boolean isGPSEnabled = mLocationManager.isProviderEnabled(LocationManager.GPS_PROVIDER);
-
+//        mLocationManager.getLastKnownLocation()
         mLocationListener = new LocationListener() {
             @Override
             public void onLocationChanged(Location location) {
